@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/colorFAB">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:layout_gravity="center_vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <surya.com.nu.Roundiv
+                android:id="@+id/iv1"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/a"
+                android:layout_marginLeft="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="R K Sinha \nChairman,NES2016"
+                android:id="@+id/tV1"
+                android:textColor="#FFF"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="60dp" />
+
+            <surya.com.nu.Roundiv
+                android:id="@+id/iv2"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="170dp"
+                android:src="@drawable/b"
+                android:layout_marginLeft="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Saswat Pattnaik \nPresident,ECell \n+91-7894912300"
+                android:id="@+id/tV2"
+                android:textColor="#FFF"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="220dp" />
+
+            <surya.com.nu.Roundiv
+                android:id="@+id/iv3"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="330dp"
+                android:src="@drawable/c"
+                android:layout_marginLeft="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Rohit Kumar Singh \nChief Coordinator\n+91-7540897586"
+                android:id="@+id/tV3"
+                android:textColor="#FFF"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="380dp" />
+            <surya.com.nu.Roundiv
+                android:id="@+id/iv4"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="490dp"
+                android:src="@drawable/d"
+                android:layout_marginLeft="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Pradosh Kumar Dash \nChief Coordinator\n+91-9853909656"
+                android:id="@+id/tV4"
+                android:textColor="#FFF"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="540dp" />
+            <surya.com.nu.Roundiv
+                android:id="@+id/iv5"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="650dp"
+                android:src="@drawable/surya"
+                android:layout_marginLeft="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Surya Prakash Sahu\nApp Developer\n+91-7077105313"
+                android:id="@+id/tV5"
+                android:textColor="#FFF"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="700dp" />
+
+            <surya.com.nu.Roundiv
+                android:id="@+id/iv6"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="810dp"
+                android:src="@drawable/g"
+                android:layout_marginLeft="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="K.Reetika \nDesigner\n+91-8763687945"
+                android:id="@+id/tV6"
+                android:textColor="#FFF"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="860dp" />
+
+            <surya.com.nu.Roundiv
+                android:id="@+id/iv7"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="970dp"
+                android:src="@drawable/g"
+                android:layout_marginLeft="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="K.Reetika \nDesigner\n+91-8763687945"
+                android:id="@+id/tV7"
+                android:textColor="#FFF"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="1020dp" />
+            <surya.com.nu.Roundiv
+                android:id="@+id/iv8"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="1130dp"
+                android:src="@drawable/g"
+                android:layout_marginLeft="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="K.Reetika \nDesigner\n+91-8763687945"
+                android:id="@+id/tV8"
+                android:textColor="#FFF"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="1180dp" />
+
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

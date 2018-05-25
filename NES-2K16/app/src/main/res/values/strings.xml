@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NES 2K16</string>
+
+    <string name="title_section1">Events</string>
+    <string name="title_section2">GuestLecture and Talks</string>
+    <string name="title_section3">TradeVoyage</string>
+    <string name="title_section4">Brochure</string>
+    <string name="title_section5">Workshop</string>
+
+
+    <string name="team">Team</string>
+    <string name="register">Register</string>
+    <string name="basics">Basics</string>
+
+
+    <string name="hello_world">Hello world</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
