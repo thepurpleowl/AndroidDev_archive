@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WhereamI</string>
+    <string name="storyHead">Where am I?</string>
+    <string name="story">
+This is a story about a girl learning about her planet and all the
+wonderful and magical creatures that she shares it with. She learns that
+her home is a small blue green planet, that looks like a marble and
+everything that lives on this marble is somehow connected!</string>
+    <string name="ruleHead">
+        Rules
+    </string>
+    <string name="rules">
+        1. Click Enter to go into gameplay."\n""\n"
+        2. You can go for zooming the picture with the ZOOM button at the top right corner."\n""\n"
+        3. The unfound items are in red color and they will change to blue once you find the items."\n""\n"
+        4. You can feel Vibration and see messages if you select correct elements."\n""\n"
+        5. You can ask for hint any number of times with the HINT button at the top right corner."\n""\n"
+        6. DO NOT close the app in between.You have to find all the objects in one go, if you start again your progress will be lost. After you need some concentration. BE CAREFUL !!!!
+    </string>
+</resources>

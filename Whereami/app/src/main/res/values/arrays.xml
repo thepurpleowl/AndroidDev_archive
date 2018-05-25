@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="hint_imgs">
+        <item>@drawable/sun</item>
+        <item>@drawable/earth</item>
+        <item>@drawable/owl</item>
+        <item>@drawable/monkey</item>
+        <item>@drawable/ant</item>
+        <item>@drawable/caterpillar</item>
+        <item>@drawable/bwing</item>
+        <item>@drawable/cat</item>
+        <item>@drawable/slipper</item>
+        <item>@drawable/flower</item>
+        <item>@drawable/book</item>
+        <item>@drawable/kite</item>
+    </integer-array>
+
+</resources>
