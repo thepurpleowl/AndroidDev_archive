@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">SHCS</string>
+    <string name="text_accountUnverified">Accounts to be Verified</string>
+    <string name="text_appointmentDashboard">Appointments</string>
+    <string name="text_regDocotrs">Registered Doctors</string>
+    <string name="hint_fee">Prescription Fee</string>
+    <string name="hint_prescription">Prescription/ Suggestions</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_problem">Problem</string>
+    <string name="hint_status">Status</string>
+    <string name="hint_date">Date</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_old_password">Old Password</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_confirm_new_password">Confirm New Password</string>
+    <string name="hint_location">Location</string>
+    <string name="hint_hospital">Hospital</string>
+    <string name="hint_speciality">Speciality</string>
+    <string name="hint_prescriptionId">Prescription Id</string>
+    <string name="hint_problemLocation">Enter your problem/location</string>
+    <string name="hint_medicineName">Med Name</string>
+    <string name="hint_medicineAmount">Med Amt</string>
+    <string name="hint_medicineCost">Med Cost</string>
+    <string name="text_updatestock">Stock Updated</string>
+    <string name="text_search">Search</string>
+    <string name="text_problemSearch">Search Problem</string>
+    <string name="text_LocationSearch">Search Location</string>
+    <string name="text_ShowRecords">Show Medical Records</string>
+    <string name="text_NewRecords">New Medical Records</string>
+    <string name="text_CurrentRecords">Current Medical Records</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="text_change_password">Change Password</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="success_message_change_password">Chenged Password Successfully</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_forgot_password">Forgot Password</string>
+    <string name="text_usertype_select">Choose your profile type.</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_user_doesnt_exist">No such User</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello</string>
+    <string name="text_welcome">Welcome</string>
+    <string name="text_adminPanel">Admin Panel</string>
+    <string name="text_patientDashboard">Patient Dashboard</string>
+    <string name="text_doctorDashboard">Doctor Dashboard</string>
+    <string name="text_hospitalBoard">Hospital Board</string>
+    <string name="text_updateSuccess">Updated Stock Successfully.</string>
+    <string name="text_title">Smart HealthCare</string>
+    <string name="text_go">Proceed to next step</string>
+    <string name="text_match">Suitable Matches</string>
+    <string name="text_prescription">Add Prescription</string>
+    <string name="text_pay">Pay</string>
+    <string name="text_claim">Claim</string>
+    <string name="text_accept">Accept</string>
+    <string name="text_decline">Decline</string>
+    <string name="text_request">Request</string>
+    <string name="text_reschedule">Reschedule</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="date_button_set">Set Date</string>
+    <string name="send_request_button">Send Request</string>
+    <string name="date_selected"></string>
+
+    <string-array name="user_array">
+        <item>Patient</item>
+        <item>Doctor</item>
+        <item>Hospital</item>
+        <item>Pharmacy</item>
+    </string-array>
+</resources>
